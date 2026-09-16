@@ -1,0 +1,19 @@
+{
+  "name": "TM Mobile — نظام إدارة الصيانة والفوترة",
+  "short_name": "TM Mobile",
+  "description": "نظام إدارة داخلي لمحل TM Mobile: الصيانة، الفواتير، المخزون، المصاريف، الشفتات",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1F1F1F",
+  "theme_color": "#1F1F1F",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
